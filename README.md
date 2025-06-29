@@ -40,6 +40,6 @@ This project is an interactive AI-powered data analysis assistant built with **S
 
 ## 🎥 Watch Live Video
 
-👉 [**Watch Dashboard Walkthrough**]([https://drive.google.com/file/d/1TgxPBLaSIYxg4jRXc153UJjvIojMB57e/view?usp=drive_link](https://drive.google.com/file/d/1Qh-KNOhIL2kSk6kc--zsJq4xcIWqhNPg/view?usp=drive_link)
+👉 [**Watch Dashboard Walkthrough**](https://drive.google.com/file/d/1Qh-KNOhIL2kSk6kc--zsJq4xcIWqhNPg/view?usp=drive_link)
 ![image](https://github.com/user-attachments/assets/90718893-2ec0-4e20-af40-7c54b3905b58)
 
